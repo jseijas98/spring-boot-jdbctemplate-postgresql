@@ -1,0 +1,5 @@
+com\bezkoder\spring\jdbc\postgresql\model\Customer.class
+com\bezkoder\spring\jdbc\postgresql\controller\CustomerController.class
+com\bezkoder\spring\jdbc\postgresql\repository\JdbcCustomerRepository.class
+com\bezkoder\spring\jdbc\postgresql\repository\CustomerRepository.class
+com\bezkoder\spring\jdbc\postgresql\SpringBootJdbctemplatePostgresqlApplication.class
